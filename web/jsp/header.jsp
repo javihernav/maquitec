@@ -1,14 +1,21 @@
+<%-- 
+    Document   : header
+    Created on : Dec 16, 2018, 8:45:17 PM
+    Author     : JAVIER
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
     <head>
         <title>Maquitec</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="_css/bootstrap.min.css">
-        <link rel="stylesheet" href="_css/styles.css">
-        <script src="_js/jquery-3.3.1.js"></script>
-        <script src="_js/popper.min.js"></script>
-        <script src="_js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="../_css/bootstrap.min.css">
+        <link rel="stylesheet" href="../_css/styles.css">
+        <script src="../_js/jquery-3.3.1.js"></script>
+        <script src="../_js/popper.min.js"></script>
+        <script src="../_js/bootstrap.min.js"></script>
 
         <style>
             .dropdown-submenu {
@@ -27,12 +34,12 @@
 
         <div class="container-fluid">
             <br>
-            <h3 id="titulo" class="h3" style="background-color: white"><img src="_img/IEM2.png" id="logotitulo" >Instituto de Educación Maquitec</h3>
+            <h3 id="titulo" class="h3" style="background-color: white"><img src="../_img/IEM2.png" id="logotitulo" >Instituto de Educación Maquitec</h3>
 
         </div>
 
         <nav class="navbar navbar-expand-sm bg-dark sticky-top">
-            <!--<a class="navbar-brand" href="#"><img src="_img/IEM.png" height="2vw"></a>-->
+            <a class="navbar-brand" href="#"><img src="../_img/IEM.png" height="50"></a>
             <ul class="navbar-nav">
                 <li class="nav-item">
 
@@ -123,48 +130,6 @@
             </ul>
         </nav>
 
-        <div class="container form-check"><br>
-            <h1 class="text-center">Bienvenido!!!</h1>
-            <p>
-                &nbsp;
-            </p>
-            <div class="row">
-
-                <h3 class="col-md-6">
-                    El Instituto de Educación <b>MAQUITEC UBATE</b> te da la bienvenida 
-                    y te invitamos a ser parte de nuestro proyecto formativo y laboral, donde 
-                    recibirás una completa formación técnico laboral en diferentes áreas.
-                </h3>
-
-                <img id="mecanicaautomotriz" class="img-fluid mx-auto d-block col-md-6" src="_img/mechanic-346254_640.jpg">
-            </div>
-            <p>
-                &nbsp;
-            </p>
-            <div class="row">
-                <img id="trabajoalturas" class="img-fluid mx-auto d-block col-md-6" src="_img/josue-isai-ramos-figueroa-741921-unsplash.jpg">
-
-                <h3 class="col-md-6">
-
-                    Tendrás la oportunidad de ser capacitado para entrar al mercado laboral 
-                    de nuestro país en áreas como la construcción, la minería, las obras civiles 
-                    y demás otros campos del conocimiento y la técnica.
-                </h3>
-            </div>
-<p>
-                &nbsp;
-            </p>
-            <div class="row">
-                <h2 class="col-md-6">
-                    Aprovecha y se parte de nuestro futuro!!!.
-                </h2>
-                <img id="excavadora" class="img-fluid mx-auto d-block col-md-4" src="_img/CM20180515-33984-11299.jpg">
-
-            </div>
-
-
-
-        </div>
 
         <script>
             $(document).ready(function () {

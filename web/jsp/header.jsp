@@ -40,7 +40,7 @@
         </div>
 
         <nav class="navbar navbar-expand-sm bg-dark sticky-top">
-            <a class="navbar-brand" href="#"><img src="../_img/IEM.png" height="50"></a>
+            <a class="navbar-brand" href="../index.html"><img src="../_img/IEM.png" height="50"></a>
             <ul class="navbar-nav">
                 <li class="nav-item">
 
@@ -48,33 +48,33 @@
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Inicio
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Marco Institucional</a></li>
-                            <li><a tabindex="-1" href="#">Ubicación</a></li>
+                            <li><a tabindex="-1" href="./MarcoLegal.jsp">Marco Institucional</a></li>
+                            <li><a tabindex="-1" href="./Ubicacion.jsp">Ubicación</a></li>
                             <li class="dropdown-submenu">
                                 <a class="test" tabindex="-1" href="#">Programas <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
                                     <li class="dropdown-submenu">
                                         <a class="test" href="#">Maquinaria Pesada <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Pensum</a></li>
+                                            <li><a href="./PensumMaquinariaPesada.jsp">Pensum</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="test" href="#">Mecánica Automotriz <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Pensum</a></li>
+                                            <li><a href="./PensumMecanicaAutomotriz.jsp">Pensum</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="test" href="#">Mecánica de Motos <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Pensum</a></li>
+                                            <li><a href="./PensumMecánicaDeMotos.jsp">Pensum</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu">
                                         <a class="test" href="#">Trabajo Seguro en Alturas <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a href="#">Pensum</a></li>
+                                            <li><a href="./PensumTrabajoSeguroEnAlturas.jsp">Pensum</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -86,7 +86,7 @@
                 <li class="nav-item">
 
                     <div class="dropdwn nav-item">
-                        <a class="nav-item" data-toggle="dropdown" href="#">¿Quienes Somos?</a>
+                        <a class="nav-item" href="./QuienesSomos.jsp">¿Quienes Somos?</a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -96,21 +96,21 @@
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Normatividad
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Legalización</a></li>
-                            <li><a tabindex="-1" href="#">Marco Legal</a></li>
+                            <li><a tabindex="-1" href="./Legalizacion.jsp">Legalización</a></li>
+                            <li><a tabindex="-1" href="./MarcoLegal.jsp">Marco Legal</a></li>
                         </ul>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-item" data-toggle="dropdown" href="#">Requisitos</a>
+                    <a class="nav-item" href="./Reauisitos.jsp">Requisitos</a>
                 </li>
                 <li class="nav-item">
                     <div class="dropdown nav-item">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Trámites
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Matrícula</a></li>
-                            <li><a tabindex="-1" href="#">Certificados</a></li>
+                            <li><a tabindex="-1" href="./Matricula.jsp">Matrícula</a></li>
+                            <li><a tabindex="-1" href="./Certificados.jsp">Certificados</a></li>
                         </ul>
                     </div>
                 </li>
@@ -119,14 +119,14 @@
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Estudiante
                             <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a tabindex="-1" href="#">Aspirantes</a></li>
-                            <li><a tabindex="-1" href="#">Antiguos</a></li>
-                            <li><a tabindex="-1" href="#">Egresados</a></li>
+                            <li><a tabindex="-1" href="./Aspirantes.jsp">Aspirantes</a></li>
+                            <li><a tabindex="-1" href="./Antiguos.jsp">Antiguos</a></li>
+                            <li><a tabindex="-1" href="./Egresados.jsp">Egresados</a></li>
                         </ul>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-item" data-toggle="dropdown" href="#">Galerías</a>
+                    <a class="nav-item" href="./Galerias.jsp">Galerías</a>
                 </li>
             </ul>
         </nav>

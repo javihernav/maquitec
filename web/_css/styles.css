@@ -60,7 +60,7 @@ label{
     border-radius: 1vw;
     margin-top: 3vw;
     padding: 4vw;
-    height: 90vw;
+    height: auto;
     line-height: 3vw;
 }
 
@@ -96,6 +96,11 @@ p{
 }
 #trabajoalturas{
      height:20vw;
+}
+
+td {
+  border: black 1px solid;
+  padding: 3vw;
 }
 /*
 //#ffc107 //amarillo

@@ -9,12 +9,19 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Antiguos</title>
     </head>
     <body>
         <header>
             <%@include file="/jsp/header.jsp" %>
         </header>
-        <h1>Hello World!</h1>
+        <div class="container">
+        <h1>Antiguos</h1>
+                    </div>
     </body>
 </html>
+
+
+
+
+

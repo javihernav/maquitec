@@ -11,6 +11,7 @@
         <title>Maquitec</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="../_img/IEM.png">
         <link rel="stylesheet" href="../_css/bootstrap.min.css">
         <link rel="stylesheet" href="../_css/styles.css">
         <script src="../_js/jquery-3.3.1.js"></script>

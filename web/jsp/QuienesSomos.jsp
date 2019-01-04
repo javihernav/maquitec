@@ -24,7 +24,10 @@
                 <h2>MISIÓN</h2>
 
 
-                <h3>Estamos comprometidos con nuestra comunidad y facilitaremos el desarrollo de las competencias laborales de las personas y el cumplimiento de los objetivos de las empresas que confíen en nosotros.
+                <h3>Estamos comprometidos con nuestra comunidad y facilitaremos 
+                    el desarrollo de las competencias laborales de las personas 
+                    y el cumplimiento de los objetivos de las empresas que confíen 
+                    en nosotros.
                 </h3>
             </div>
             <div class="form-group">
@@ -33,7 +36,11 @@
             </h1>
                 <h2>VISIÓN</h2>
                 <h3>
-                    De la mano del mejoramiento continuo y el cumplimiento de nuestros objetivos, queremos ser socios estratégicos de nuestros clientes y continuar brindando un servicio de calidad y eficiente, implementando nuevas metodologías de capacitación y satisfacer todas las necesidades de nuestros socios.</h3>
+                    De la mano del mejoramiento continuo y el cumplimiento de 
+                    nuestros objetivos, queremos ser socios estratégicos de 
+                    nuestros clientes y continuar brindando un servicio de calidad 
+                    y eficiente, implementando nuevas metodologías de capacitación 
+                    y satisfacer todas las necesidades de nuestros socios.</h3>
             </div>
         </div>
     </body>
